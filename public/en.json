@@ -1,0 +1,61 @@
+[
+{
+    "entityId": 1,
+    "entityName": "Aadhar",
+    "hasChildren": true
+},
+{
+    "entityId": 2,
+    "entityName": "Account_Opening",
+    "hasChildren": true
+},
+{
+    "entityId": 4,
+    "entityName": "Add_on_card",
+    "hasChildren": true
+},
+{
+    "entityId": 5,
+    "entityName": "Application",
+    "hasChildren": true
+},
+{
+    "entityId": 6,
+    "entityName": "Branch_related",
+    "hasChildren": true
+},
+{
+    "entityId": 7,
+    "entityName": "Card_Closure",
+    "hasChildren": true
+},
+{
+    "entityId": 8,
+    "entityName": "Charges_related",
+    "hasChildren": true
+},
+{
+    "entityId": 9,
+    "entityName": "Cheque_Book_related",
+    "hasChildren": true
+},
+{
+    "entityId": 10,
+    "entityName": "Closure_of_account",
+    "hasChildren": true
+},
+{
+    "entityId": 11,
+    "entityName": "Credit_Card_Despatch",
+    "hasChildren": true
+},
+{
+    "entityId": 12,
+    "entityName": "Credit_Card_Despatch",
+    "hasChildren": false
+},
+{
+    "entityId": 13,
+    "entityName": "Debit_card_related",
+    "hasChildren": true
+}]
